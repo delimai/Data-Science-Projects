@@ -1,7 +1,1 @@
-# Data-Science-Projects
-
-This is a repository with all the projects that I've been doing so far 🤖
-
-I am a self-taught learner, I'm committed myself to practice constantly.
-
-Future Data Sciencist 🧮🧪📊
+This repository contains a collection of data analysis projects that I have completed using Python and various libraries like Pandas, NumPy, and Matplotlib. These projects showcase my skills in data cleaning, data visualization, statistical analysis. Each project is well-documented, and I've included detailed explanations of my thought process, methodology, and key findings. Check out the individual project folders to see what's inside, and feel free to explore the code or even fork the repository to use it as a starting point for your own data analysis projects.
